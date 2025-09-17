@@ -1,10 +1,6 @@
 # COVID-19 Data Analysis
 
-# COVID-19 Data Analysis
-
 ![COVID-19 Trends](covid_trends.png)
-
-This project explores COVID-19 data using Python and Jupyter Notebook...
 
 
 This project explores COVID-19 data using Python and Jupyter Notebook to uncover insights into the spread, impact, and patterns of the pandemic.  
